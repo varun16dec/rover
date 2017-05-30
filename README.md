@@ -1,4 +1,4 @@
-# rover
+# GeoRover Project Repository
 
 ## Rover Arduino Repository <a href="https://github.com/varun16dec/rover-arduino">Click Here</a>
 
